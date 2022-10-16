@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Cassie Goldstein! I am a recent graduate of Ithaca College, and I studied communication management and design with a minor in computer science.
+- 👀 I’m interested in pursuing a career as a full-stack or front-end software engineer!
+- 🌱 I’m currently learning Python, JavaScript, React, and PostreSQL by working as a teaching assistant at Code Platoon, an immersive, 3-month coding bootcamp. 
+- 📫 How to reach me: goldsteincassie@gmail.com
